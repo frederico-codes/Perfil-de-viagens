@@ -1,4 +1,4 @@
-![Capa do projeto](assets/cover.svg)
+![Capa do projeto](assets/Cover.svg)
 
 
 ## 🧩 Conteúdos praticados
